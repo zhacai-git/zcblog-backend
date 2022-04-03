@@ -17,7 +17,7 @@ git clone
 First configure app.config.js and mysql.config.js
 
 ### app.config.js文件格式：app.config.js file format
-```json
+```javascript
 module.exports = {
   // 模式选择：开发|生产
   ENV_MODE: 'dev', // dev|prod
@@ -40,7 +40,7 @@ module.exports = {
 }
 ```
 ### mysql.config.js文件格式 mysql.config.js file format:
-```json
+```javascript
 module.exports = {
   dev: {
     host: 'localhost',
