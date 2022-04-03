@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+access.log
+.uploadFiles/
+./config/mysql.config.js
