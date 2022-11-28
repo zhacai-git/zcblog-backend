@@ -5,6 +5,8 @@
 ### ZC's blog backend application, built on nodejs. Use Mysql as database.
 ### nodejs beginner's work, please actively feedback questions, thanks!
 
+### 最新提示，请暂时不要使用本项目，本项目目前存在一个严重的身份验证漏洞，可能会导致管理员权限被盗用。由于本博客已经不再使用，故本漏洞在验明问题所在后并无修复计划。
+### Update, please do not use this project for now, there is currently a serious authentication vulnerability in this project that may lead to theft of administrator privileges. Since this blog is no longer in use, there is no plan to fix this vulnerability after the problem has been identified.
 
 ## 用法 Usage
 ### 克隆项目到本地 Clone prject
